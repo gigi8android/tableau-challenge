@@ -38,10 +38,8 @@ In summary, it is observed that:
 
 * The top performing business was at station Grove St PATH due to many events were organised from May to September, i.e. after the lift of covid-19 pandemic restriction in New Jersey, to boost up local businesses. The popular events were New Hope Block Party, Groove on Grove, Artist & Makers Market and 90's Themed Midnight Market and many more re-opennings of the recurring events.
 
-<img width="506" alt="image" src="https://user-images.githubusercontent.com/92906443/162131199-f794f951-5fdb-449d-84d0-d22a1957af26.png">
-![image](https://user-images.githubusercontent.com/92906443/162131434-125dfa22-bb38-4783-a4e8-5dcc52b3b945.png)
-
-
+<img width="954" alt="image" src="https://user-images.githubusercontent.com/92906443/162132019-15f7b795-a104-413f-b722-687c15d509ae.png">
+<img width="954" alt="image" src="https://user-images.githubusercontent.com/92906443/162131839-7a4e612b-9a7e-4615-9611-b6750b72a2c8.png">
 
 * Citi-Bike riders age were ranging from 18 to 93 with the peak at age 53. The main contribution to this peak age group was the non-scribers/casual users (total of 98,800 hired bikes) and most of them were withheld their personal details when were asking about their genders.
 
