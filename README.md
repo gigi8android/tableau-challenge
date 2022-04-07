@@ -43,6 +43,8 @@ In summary, it is observed that:
 * Citi-Bike riders age were ranging from 18 to 93 with the peak at age 53. The main contribution to this peak age group was the non-scribers/casual users (total of 98,800 hired bikes) and most of them were withheld their personal details when were asking about their genders.
 
 ![image](https://user-images.githubusercontent.com/92906443/162130323-32a0d6db-0ea5-4127-9916-afb0e378db00.png)
+![image](https://user-images.githubusercontent.com/92906443/162130559-07ddb731-d8b5-460c-bb0c-ec2a42fed960.png)
+
 
 * On a weekday, the busiest period was in the morning from 7am to 9am and in the everning from 5 to 7pm. It appeared that most people were riding bike to/from work. On a week-end, the pattern was very different, the peak period was from 12 to 7pm which could mean most people just using bike to ride around for their leisures.
 
