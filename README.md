@@ -17,7 +17,7 @@ Tableau online published workbook: https://prod-apsoutheast-a.online.tableau.com
 
 ### Python
 
-Jupyter notebook and pandas were used to cleanse the data and merge all csv data files together into one large combined file called "JC-2020-data.csv". Due to the limitation of github, these data files were not uploaded to github but they were embedded in the Tableau workbook.
+Jupyter notebook and pandas were used to cleanse the data and merge all csv data files together into one large combined file called "JC-2020-data.csv". 
 
 ### Tableau
 
@@ -26,6 +26,10 @@ Tableau was used to visualised the data, hosted the visualisation stories and da
 2- The main story are broken into 2 sub-stories/chapters:
   * Chapter A - JC Stations: all information about JC stations and bikes with their geographical location and performance
   * Chapter B - JC Riders: all information about JC customers with US seasonal, monthly, daily, and hourly riding trends
+
+### Data files
+
+Due to the limitation of file size uploading onto github, all input csv data files were not uploaded here but were embedded in the online Tableau workbook.
 
 ## Summary & Observations
 
