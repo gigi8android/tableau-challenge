@@ -32,7 +32,7 @@ Tableau was used to visualised the data, hosted the visualisation stories and da
 Data analytics were performed and embedded in the Tableau workbook's stories.
 
 In summary, it is observed that:
-* Citi-Bike subscribers/members mostly used bikes at the stations along 6th street such as Brunswick & 6th (87%), Monmouth & 6th (87%) and Jersey & 6th (84%). Non-subscriber/ casual users mostly hired bikes nead the Point Of Interests such as Liberty Rail (57%), Communipaw & Berry Lane (50%) and Jackson Square & Loncoln Park (47%).
+* Citi-Bike subscribers/members mostly used bikes at the stations along 6th street such as Brunswick & 6th (87%), Monmouth & 6th (87%) and Jersey & 6th (84%). Non-subscriber/ casual users mostly hired bikes near the Point Of Interests such as Liberty Rail (57%), Communipaw & Berry Lane (50%) and Jackson Square & Loncoln Park (47%).
 * Business at Liberty Light Rail and Newport Pkwy were improving significantly during Spring and Summer months
 
 ![image](https://user-images.githubusercontent.com/92906443/162130235-82dfa481-37e1-4b7a-bbb8-e1d4e9594e30.png)
@@ -43,7 +43,7 @@ In summary, it is observed that:
 <img width="954" alt="image" src="https://user-images.githubusercontent.com/92906443/162132019-15f7b795-a104-413f-b722-687c15d509ae.png">
 <img width="954" alt="image" src="https://user-images.githubusercontent.com/92906443/162131839-7a4e612b-9a7e-4615-9611-b6750b72a2c8.png">
 
-* Citi-Bike riders age were ranging from 18 to 93 with the peak at age 53. The main contribution to this peak age group was the non-scribers/casual users (total of 98,800 hired bikes) and most of them were withheld their personal details when were asking about their genders.
+* Citi-Bike riders age were ranging from 18 to 93 with the peak at age 53. The main contribution to this peak age group was the non-scribers/casual users (total of 98,800 hired bikes) and most of them withheld their personal details when were asking about their genders.
 
 ![image](https://user-images.githubusercontent.com/92906443/162130323-32a0d6db-0ea5-4127-9916-afb0e378db00.png)
 ![image](https://user-images.githubusercontent.com/92906443/162130559-07ddb731-d8b5-460c-bb0c-ec2a42fed960.png)
@@ -53,10 +53,10 @@ In summary, it is observed that:
 
 ![image](https://user-images.githubusercontent.com/92906443/162134595-c40bbcae-5961-4cf9-8974-0de126e53a2d.png)
 
-* There was a big drop in business in April due to covid-19 pandemic and restrictions with the number of deaths in Jersey City reached to 7,228 deaths. However, the bike riders were booming from May onward (i.e. after the restriction) as people started to switch their commuting methods. With the merge of Lyft share rides and expansion of more stations in Hoboken neighbour that announnced in August, the number of bikes that hired by subscribers/members was slowing down in the Jersey City's stations while the number of non-scribers were increased significantly in October.
+* There was a big drop in business in April due to covid-19 pandemic and restrictions with the number of deaths in Jersey City reached to 7,228 deaths. However, the bike riders were booming from May onward (i.e. after the restriction) as people started to switch their commuting methods. With the merge of Lyft share rides, Jersey City launched a new bike share program and expansion of more stations in Hoboken neighbour (announnced in August 2020 by Mayor Bhalla and Jersey City Mayor Steve M. Fulop), the number of bikes that hired by subscribers/members was slowing down in the Jersey City's stations while the number of non-scribers were increased significantly in October. The new program was operated as Citi Bike and was not only the largest bike share program in New Jersey, but it was also part of the nation’s largest bike share program, Citi Bike NYC.
 
 ![image](https://user-images.githubusercontent.com/92906443/162130405-bb13fec8-93f9-44f0-a20d-eeed889a14d2.png)
 
-* A personalised dashboard had been created, where user could select a range of dates/ months to view a station performance during that period with Citi-Bike user metrics. A summary of information will be revealed in the little square in the table by clicking on it.
+* A personalised dashboard had been created, where the user could select a range of dates/ months to view a station performance during that period with Citi-Bike user metrics. A summary of information will be revealed in the little square in the table by clicking on it.
 
 <img width="954" alt="image" src="https://user-images.githubusercontent.com/92906443/162132591-4058b2e3-e0ab-4a7a-8c95-0559ac59c320.png">
