@@ -38,18 +38,18 @@ In summary, it is observed that:
 ![image](https://user-images.githubusercontent.com/92906443/162130235-82dfa481-37e1-4b7a-bbb8-e1d4e9594e30.png)
 ![image](https://user-images.githubusercontent.com/92906443/162134194-1b46ab97-133e-47a5-92dd-d11cfad5cab0.png)
 
-* The top performing business was at station Grove St PATH due to many events were organised from May to September, i.e. after the lift of covid-19 pandemic restriction in New Jersey, to boost up local businesses. The popular events were New Hope Block Party, Groove on Grove, Artist & Makers Market and 90's Themed Midnight Market and many more re-opennings of the recurring events.
+* The top performing business was at station Grove St PATH due to many public events were organised from May to September, i.e. after the lift of covid-19 pandemic restriction in New Jersey, to boost up local businesses. The popular events were New Hope Block Party, Groove on Grove, Artist & Makers Market and 90's Themed Midnight Market and many more re-openning of the recurring events.
 
 <img width="954" alt="image" src="https://user-images.githubusercontent.com/92906443/162132019-15f7b795-a104-413f-b722-687c15d509ae.png">
 <img width="954" alt="image" src="https://user-images.githubusercontent.com/92906443/162131839-7a4e612b-9a7e-4615-9611-b6750b72a2c8.png">
 
-* Citi-Bike riders age were ranging from 18 to 93 with the peak at age 53. The main contribution to this peak age group was the non-scribers/casual users (total of 98,800 hired bikes) and most of them withheld their personal details when were asking about their genders.
+* Citi-Bike riders age were ranging from 18 to 93 with the common (median) at age 53. The main contribution to this popular age group was the non-scribers/casual users (made up the total of 98,800 hired bikes) and most of them withheld their personal details when were asking about their genders.
 
 ![image](https://user-images.githubusercontent.com/92906443/162130323-32a0d6db-0ea5-4127-9916-afb0e378db00.png)
 ![image](https://user-images.githubusercontent.com/92906443/162130559-07ddb731-d8b5-460c-bb0c-ec2a42fed960.png)
 
 
-* On a weekday, the busiest period was in the morning from 7am to 9am and in the everning from 5 to 7pm. It appeared that most people were riding bike to/from work. On a week-end, the pattern was very different, the peak period was from 12 to 7pm which could mean most people just using bike to ride around for their leisures.
+* On a weekday, the busiest period was in the morning, from 7am to 9am, and in the everning, from 5 to 7pm. It's appeared that most people were riding bike to and from work. On a week-end, the pattern was very different, the peak period was from 12 to 7pm, which could mean most people were just hiring the bikes to ride around for their leisures.
 
 ![image](https://user-images.githubusercontent.com/92906443/162134595-c40bbcae-5961-4cf9-8974-0de126e53a2d.png)
 
@@ -57,6 +57,6 @@ In summary, it is observed that:
 
 ![image](https://user-images.githubusercontent.com/92906443/162130405-bb13fec8-93f9-44f0-a20d-eeed889a14d2.png)
 
-* A personalised dashboard had been created, where the user could select a range of dates/ months to view a station performance during that period with Citi-Bike user metrics. A summary of information will be revealed in the little square in the table by clicking on it.
+* A personalised dashboard had been created, where the user could select a range of dates/ months to view a station performance during that period of time with Citi-Bike user's metrics. A summary of information will be revealed in the little square in the table by clicking on it.
 
 <img width="954" alt="image" src="https://user-images.githubusercontent.com/92906443/162132591-4058b2e3-e0ab-4a7a-8c95-0559ac59c320.png">
