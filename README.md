@@ -32,7 +32,7 @@ Tableau was used to visualised the data, hosted the visualisation stories and da
 Data analytics were performed and embedded in the Tableau workbook's stories.
 
 In summary, it is observed that:
-* Citi-Bike subscribers/members mostly used bikes at the stations along 6th such as Brunswick & 6th (87%), Monmouth & 6th (87%) and Jersey & 6th (84%). Non-subscriber/ casual users mostly hired bikes nead the Point Of Interests such as Liberty Rail (57%), Communipaw & Berry Lane (50%) and Jackson Square & Loncoln Park (47%).
+* Citi-Bike subscribers/members mostly used bikes at the stations along 6th street such as Brunswick & 6th (87%), Monmouth & 6th (87%) and Jersey & 6th (84%). Non-subscriber/ casual users mostly hired bikes nead the Point Of Interests such as Liberty Rail (57%), Communipaw & Berry Lane (50%) and Jackson Square & Loncoln Park (47%).
 * Business at Liberty Light Rail and Newport Pkwy were improving significantly during Spring and Summer months
 
 ![image](https://user-images.githubusercontent.com/92906443/162130235-82dfa481-37e1-4b7a-bbb8-e1d4e9594e30.png)
