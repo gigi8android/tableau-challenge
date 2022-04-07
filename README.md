@@ -1,4 +1,5 @@
-# United State - New Jersey Citi-Bike
+# United States - New Jersey ![image](https://user-images.githubusercontent.com/92906443/162133533-b5bd9207-4f9d-4592-9530-29baa950368c.png)
+
 
 A study of New Jersey Citi-Bike for year 2020 on geographical location, popularity, gender and other metrics.
 
@@ -8,9 +9,9 @@ The premise of this homework was to analyse and visualise data which showed the 
 
 The datasets used for this project included:
 * Data files obtained from the public https://ride.citibikenyc.com/system-data webpage.
-* 12 monthly files for year 2020
+* 12 monthly csv files for year 2020
 
-Tableau online workbook: https://prod-apsoutheast-a.online.tableau.com/#/site/gigi8android/views/NewJerseyCiti-Bike2020/Citi-BikeShortStory?:iid=3
+Tableau online published workbook: https://prod-apsoutheast-a.online.tableau.com/#/site/gigi8android/views/NewJerseyCiti-Bike2020/Citi-BikeShortStory?:iid=3
 
 ## Method
 
@@ -35,6 +36,7 @@ In summary, it is observed that:
 * Business at Liberty Light Rail and Newport Pkwy were improving significantly during Spring and Summer months
 
 ![image](https://user-images.githubusercontent.com/92906443/162130235-82dfa481-37e1-4b7a-bbb8-e1d4e9594e30.png)
+![image](https://user-images.githubusercontent.com/92906443/162134194-1b46ab97-133e-47a5-92dd-d11cfad5cab0.png)
 
 * The top performing business was at station Grove St PATH due to many events were organised from May to September, i.e. after the lift of covid-19 pandemic restriction in New Jersey, to boost up local businesses. The popular events were New Hope Block Party, Groove on Grove, Artist & Makers Market and 90's Themed Midnight Market and many more re-opennings of the recurring events.
 
@@ -49,7 +51,7 @@ In summary, it is observed that:
 
 * On a weekday, the busiest period was in the morning from 7am to 9am and in the everning from 5 to 7pm. It appeared that most people were riding bike to/from work. On a week-end, the pattern was very different, the peak period was from 12 to 7pm which could mean most people just using bike to ride around for their leisures.
 
-![image](https://user-images.githubusercontent.com/92906443/162130368-2a20f46e-a75f-4086-a2df-af360b21585b.png)
+![image](https://user-images.githubusercontent.com/92906443/162134595-c40bbcae-5961-4cf9-8974-0de126e53a2d.png)
 
 * There was a big drop in business in April due to covid-19 pandemic and restrictions with the number of deaths in Jersey City reached to 7,228 deaths. However, the bike riders were booming from May onward (i.e. after the restriction) as people started to switch their commuting methods. With the merge of Lyft share rides and expansion of more stations in Hoboken neighbour that announnced in August, the number of bikes that hired by subscribers/members was slowing down in the Jersey City's stations while the number of non-scribers were increased significantly in October.
 
