@@ -55,3 +55,6 @@ In summary, it is observed that:
 
 ![image](https://user-images.githubusercontent.com/92906443/162130405-bb13fec8-93f9-44f0-a20d-eeed889a14d2.png)
 
+* A personalised dashboard had been created, where user could select a range of dates/ months to view a station performance during that period with Citi-Bike user metrics. A summary of information will be revealed in the little square in the table by clicking on it.
+
+<img width="954" alt="image" src="https://user-images.githubusercontent.com/92906443/162132591-4058b2e3-e0ab-4a7a-8c95-0559ac59c320.png">
