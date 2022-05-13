@@ -13,7 +13,7 @@ The datasets used for this project included:
 
 Tableau online published workbook: https://prod-apsoutheast-a.online.tableau.com/#/site/gigi8android/views/NewJerseyCiti-Bike2020/Citi-BikeShortStory?:iid=3
 
-Tableau public published workbook: https://public.tableau.com/app/profile/anh7358/viz/NewJerseyCiti-Bike2020/Citi-BikeShortStory?publish=yes
+Tableau public published workbook: https://public.tableau.com/views/NewJerseyCiti-Bike2020/Citi-BikeShortStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Method
 
